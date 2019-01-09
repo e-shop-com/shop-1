@@ -1,10 +1,11 @@
 # Shop
-(Fully) Functional Shop!
+Functional Shop!
+-Dynamically add products (using EJS templating Enigne)
+-Functional cart and orders list
 
 Written in NodeJS w/ Express
 
 # Includes:
-- EJS templating Engine
 - MySQL2 & Sequelize
 
 #To Be Included:
@@ -13,4 +14,4 @@ Written in NodeJS w/ Express
 -Deploy
 
 
-From M. Schwarzmuller's NODEJS complete course on Udemy
+From M. Schwarzmuller's NodeJs complete course on Udemy
