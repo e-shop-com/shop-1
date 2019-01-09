@@ -3,7 +3,7 @@ Functional Shop!
 -Dynamically add products (using EJS templating Enigne)
 -Functional cart and orders list
 
-Written in NodeJS w/ Express
+Written in NodeJS with Express JS.
 
 # Includes:
 - MySQL2 & Sequelize
