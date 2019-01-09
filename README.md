@@ -1,4 +1,4 @@
-# Shop
+# Shop (Work in Progress)
 Functional Shop!
 -Dynamically add products (using EJS templating Enigne)
 -Functional cart and orders list
