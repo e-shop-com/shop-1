@@ -8,7 +8,7 @@ Written in NodeJS with Express JS.
 # Includes:
 - MySQL2 & Sequelize
 
-#To Be Included:
+# To Be Included:
 -User Login & Management
 -OAuth
 -Deploy
